@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Muhammad Mustafa Raza
+# 👋 Hi, I'm Mustafa
 
 💻 **Aspiring Full Stack Developer** | Currently learning postgresQL & Backend Development
 
